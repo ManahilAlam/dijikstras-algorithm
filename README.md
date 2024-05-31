@@ -14,5 +14,4 @@ In conclusion, ChicRoute successfully integrates algorithmic principles with gra
 
 
 
-# sourcecode-link
-https://mega.nz/folder/SZRHFBpI#qiIrugYpXPW9EYBDrCbdpQ
+
