@@ -1,0 +1,75 @@
+﻿  Source.cpp
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(220,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(220,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(224,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(224,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(228,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(228,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(249,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(249,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\ZASS\source\repos\dijikstras_project\Source.cpp(321,27): warning C4018: '<': signed/unsigned mismatch
+  dijikstras_project.vcxproj -> C:\Users\ZASS\source\repos\dijikstras_project\Debug\dijikstras_project.exe
